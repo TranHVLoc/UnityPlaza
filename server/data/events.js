@@ -18,7 +18,7 @@ const eventData = [
     {
         "id": 3,
         "title": "Badflower: Asking for a Friend",
-        "date": "2023-03-23",
+        "date": "2024-03-23",
         "time": 1900,
         "location": 2,
         "image": "https://bandwagmag.com/wp-content/uploads/2016/12/10-og.jpg",
@@ -50,7 +50,7 @@ const eventData = [
     {
         "id": 7,
         "title": "Sublime",
-        "date": "2023-07-01",
+        "date": "2023-07-11",
         "time": 1700,
         "location": 3,
         "image": "https://merchbar.imgix.net/product/105/6519/4001755627602/ODAyiKAK85-1.png?quality=60&auto=compress,format&w=3840",
@@ -74,7 +74,7 @@ const eventData = [
     {
         "id": 10,
         "title": "3 Doors Down",
-        "date": "2023-03-23",
+        "date": "2024-03-23",
         "time": 2000,
         "location": 3,
         "image": "https://iscale.iheart.com/catalog/artist/36646",
@@ -98,7 +98,7 @@ const eventData = [
     {
         "id": 13,
         "title": "Duran Duran",
-        "date": "2023-06-10",
+        "date": "2023-12-10",
         "time": 1900,
         "location": 4,
         "image": "https://static.stereogum.com/uploads/2015/09/duranduran.jpg",
@@ -114,7 +114,7 @@ const eventData = [
     {
         "id": 15,
         "title": "Depeche Mode",
-        "date": "2023-10-01",
+        "date": "2023-10-10",
         "time": 1900,
         "location": 4,
         "image": "https://i.discogs.com/tiuVvZ5R0TWQDXYr4LabpmOOY_l123e7FoXOXk4y3ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3MjUt/MTY2NTMzMzEyMS0z/OTk4LmpwZWc.jpeg",
